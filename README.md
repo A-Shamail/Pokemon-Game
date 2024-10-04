@@ -1,5 +1,7 @@
 # Pokémon Game - LUMS Edition
 
+<img width="1067" alt="image" src="https://github.com/user-attachments/assets/f514c363-c7b3-479a-b3ff-f294a9015e8b">
+
 ## Overview
 
 This is a turn-based **Pokémon** game set on the campus of **Lahore University of Management Sciences (LUMS)**, inspired by the classic Pokémon games. The game is built using **Unity**, and features custom assets that were developed using a combination of hand-drawn artwork and pixel art tools.
